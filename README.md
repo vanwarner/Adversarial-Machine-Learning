@@ -1,0 +1,3 @@
+Transformation-Based Defense of Clean-Label, Hidden-Trigger Adversarial Attack
+======================
+This repo holds the folder I did work in Spring 2020 for Rowan University's Junior Engineering Clinic - Adversarial Machine Learning. I have modified code provided from [this paper](https://arxiv.org/pdf/1910.00033.pdf) at [their repository](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks). Due to poor planning of my own directory structure, I am uploading the entire directory. File paths are absolute and must be changed to reproduce results. Hopefully I will learn to do version control correctly the next time around :). 
